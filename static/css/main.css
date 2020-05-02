@@ -1,0 +1,24 @@
+.wrapper {
+    background-color: #ffffff;
+    font-size: 13px;
+}
+
+/* Header css start */
+
+.header-container {
+    height: 156px;
+    width: 100%;
+}
+
+.header-container higher-header {
+    height: 40px;
+    width: 100%;
+    background-color: #F7F7F7;
+}
+
+.higher-header ol { display: inline; }
+.higher-header ol li { display: inline; margin-left: 7px; }
+.higher-header ol li .red { color: red; }
+
+/* Header css finish */
+
