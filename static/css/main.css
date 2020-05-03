@@ -37,3 +37,31 @@
 
 /* Header css finish */
 
+/* Big ads block css start */
+
+.big_ad_block {
+    height: 360px;
+}
+
+.big_ad_block .big_ads_cube_img {
+    margin: 0px;
+}
+
+.big_ad_block .small_ads_cube {
+    height: 180px;
+    margin: 5px;
+}
+
+.big_ad_block .ads_cube_img {
+    max-height: 180px;
+}
+
+/* Big ads block css finish */
+
+/* common css start */
+
+.small_border { border: 1px solid #E8E8E8; }
+.w100-p { width: 100%; }
+.inliner { display: inline; }
+
+/* common css finish */
