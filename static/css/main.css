@@ -65,8 +65,11 @@
 
 /* common css start */
 
-.small_border { border: 1px solid #E8E8E8; }
+.small_border { border: 1px solid #E2E2E2; }
 .w100-p { width: 100%; }
+
+.h-100 { height: 100%; }
+
 .w23 { width: 23px; }
 .inliner { display: inline; }
 
@@ -85,6 +88,7 @@
 
 .mt-8 { margin-top: 8px; }
 .mt-3 { margin-top: 3px; }
+.m-0 { margin: 0 }
 
 .pl-0 { padding-left: 0; }
 .p-0 { padding: 0 0; }
